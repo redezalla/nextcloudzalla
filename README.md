@@ -1,0 +1,2 @@
+# nextcloudzalla
+nextcloud up
